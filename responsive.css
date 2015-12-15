@@ -1,0 +1,218 @@
+/*		Tablet Layout: 768px.     */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .carousel {
+    margin-top: 78px; }
+    .carousel .carousel-inner .carousel-caption {
+      padding-bottom: 40px; }
+      .carousel .carousel-inner .carousel-caption h3 {
+        font-size: 23px;
+        line-height: 30px; }
+      .carousel .carousel-inner .carousel-caption p {
+        font-size: 15px;
+        line-height: 20px; }
+
+  .short-about-us {
+    padding: 40px 0px;
+    background: #f1fbfb; }
+
+  .section-title {
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 15px; }
+    .section-title span:before, .section-title span:after {
+      content: "";
+      position: absolute;
+      height: 5px;
+      border-bottom: 2px solid #475157;
+      top: 12px;
+      width: 50px; }
+
+  .page-navigation .breadcrumb li a {
+    font-size: 16px; }
+
+  .page .section-title {
+    margin: 30px 0px; }
+  .page article .summery p {
+    margin-bottom: 30px; }
+  .page .sidebar {
+    margin-top: 30px; }
+
+  .services .single-service {
+    margin-bottom: 40px; }
+    .services .single-service h3 {
+      font-size: 22px; }
+      .services .single-service h3 p {
+        font-size: 14px;
+        line-height: 18px; }
+
+  .our-crews li .cta-our-crews {
+    top: 50%;
+    left: 34%; }
+
+  .contact .office-address .office {
+    margin-bottom: 30px; }
+
+  footer .footer-bottom p {
+    text-align: center; }
+  footer .footer-bottom .social {
+    text-align: center;
+    float: none !important; } }
+/*		Mobile Layout: 320px.     */
+@media only screen and (max-width: 767px) {
+  header .navbar nav ul li:last-of-type a {
+    margin-bottom: 0px !important; }
+  header .navbar-toggle {
+    top: 10px; }
+  header .navbar-default .navbar-collapse,
+  header .navbar-default .navbar-form {
+    border: none;
+    float: left; }
+
+  .carousel {
+    margin-top: 72px; }
+    .carousel .carousel-inner .carousel-caption {
+      padding-bottom: 15px; }
+      .carousel .carousel-inner .carousel-caption h3 {
+        font-size: 18px;
+        line-height: 25px; }
+      .carousel .carousel-inner .carousel-caption p {
+        font-size: 13px;
+        line-height: 18px; }
+
+  .short-about-us {
+    padding: 40px 0px;
+    background: #f1fbfb; }
+    .short-about-us p {
+      font-size: 14px; }
+
+  .section-title {
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 15px; }
+    .section-title span:before, .section-title span:after {
+      content: "";
+      position: absolute;
+      height: 5px;
+      border-bottom: 2px solid #475157;
+      top: 8px;
+      width: 40px; }
+
+  .page-navigation {
+    margin-top: 72px; }
+    .page-navigation .breadcrumb li a {
+      font-size: 12px; }
+
+  .page article .summery p {
+    margin-bottom: 30px; }
+  .page .title {
+    font-size: 16px;
+    line-height: 22px; }
+  .page .sidebar {
+    margin-top: 30px; }
+
+  .services .single-service {
+    margin-bottom: 30px; }
+    .services .single-service h3 {
+      font-size: 18px; }
+    .services .single-service p {
+      font-size: 13px;
+      line-height: 16px; }
+
+  .our-crews-nav li {
+    margin-bottom: 20px; }
+
+  .our-crews li .cta-our-crews {
+    top: 50%;
+    left: 35%; }
+
+  .contact .office-address i {
+    display: none; }
+
+  footer .footer-bottom p {
+    text-align: center; }
+  footer .footer-bottom .social {
+    text-align: center;
+    float: none !important;
+    margin-top: 20px; }
+
+  .widget h3 {
+    font-size: 16px !important; } }
+/*		Wide Mobile Layout: 480px.    */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  header .navbar-toggle {
+    top: 10px; }
+  header .navbar-default .navbar-collapse,
+  header .navbar-default .navbar-form {
+    border: none;
+    float: left; }
+
+  .carousel {
+    margin-top: 72px; }
+    .carousel .carousel-inner .carousel-caption {
+      padding-bottom: 15px; }
+      .carousel .carousel-inner .carousel-caption h3 {
+        font-size: 20px;
+        line-height: 30px; }
+      .carousel .carousel-inner .carousel-caption p {
+        font-size: 13px;
+        line-height: 18px; }
+
+  .short-about-us {
+    padding: 40px 0px;
+    background: #f1fbfb; }
+    .short-about-us p {
+      font-size: 13px; }
+
+  .section-title {
+    font-size: 26px;
+    line-height: 30px;
+    margin-bottom: 15px; }
+    .section-title span:before, .section-title span:after {
+      content: "";
+      position: absolute;
+      height: 5px;
+      border-bottom: 2px solid #475157;
+      top: 12px;
+      width: 50px; }
+
+  .page-navigation {
+    margin-top: 72px; }
+
+  .page article .summery p {
+    margin-bottom: 30px; }
+  .page .section-title {
+    margin: 30px 0px; }
+  .page .sidebar {
+    margin-top: 30px; }
+
+  .services .single-service {
+    margin-bottom: 40px; }
+    .services .single-service h3 {
+      font-size: 22px; }
+      .services .single-service h3 p {
+        font-size: 14px;
+        line-height: 18px; }
+
+  .our-crews-nav li {
+    margin-bottom: 20px; }
+
+  .our-crews li .cta-our-crews {
+    top: 50%;
+    left: 39%; }
+
+  .contact .office-address i {
+    display: none; }
+  .contact .office-address .office {
+    margin-bottom: 30px; }
+
+  footer .footer-bottom p {
+    text-align: center; }
+  footer .footer-bottom .social {
+    text-align: center;
+    float: none !important;
+    margin-top: 20px; }
+
+  .widget h3 {
+    font-size: 16px !important; } }
+
+/*# sourceMappingURL=responsive.css.map */

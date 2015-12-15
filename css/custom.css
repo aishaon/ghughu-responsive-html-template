@@ -1,0 +1,44 @@
+@import url("boilerplate.css");
+@import url("normalize.css");
+@import url("font-awesome.min.css");
+@import url("bootstrap.min.css");
+@import url("owl.theme.css");
+@import url("owl.carousel.css");
+@import url("reset.css");
+/*Custom Fonts*/
+@font-face {
+    font-family: 'Raleway Light';
+    src: url('../fonts/raleway-light-webfont.eot');
+    src: url('../fonts/raleway-light-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/raleway-light-webfont.woff2') format('woff2'),
+    url('../fonts/raleway-light-webfont.woff') format('woff'),
+    url('../fonts/raleway-light-webfont.ttf') format('truetype'),
+    url('../fonts/raleway-light-webfont.svg#ralewaylight') format('svg');
+}
+@font-face {
+    font-family: 'Raleway Regular';
+    src: url('../fonts/raleway-regular-webfont.eot');
+    src: url('../fonts/raleway-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/raleway-regular-webfont.woff2') format('woff2'),
+    url('../fonts/raleway-regular-webfont.woff') format('woff'),
+    url('../fonts/raleway-regular-webfont.ttf') format('truetype'),
+    url('../fonts/raleway-regular-webfont.svg#ralewayregular') format('svg');
+}
+@font-face {
+    font-family: 'Raleway Bold';
+    src: url('../fonts/raleway-bold-webfont.eot');
+    src: url('../fonts/raleway-bold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/raleway-bold-webfont.woff2') format('woff2'),
+    url('../fonts/raleway-bold-webfont.woff') format('woff'),
+    url('../fonts/raleway-bold-webfont.ttf') format('truetype'),
+    url('../fonts/raleway-bold-webfont.svg#ralewaybold') format('svg');
+}
+@font-face {
+    font-family: 'Raleway Semibold';
+    src: url('../fonts/raleway-semibold-webfont.eot');
+    src: url('../fonts/raleway-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/raleway-semibold-webfont.woff2') format('woff2'),
+    url('../fonts/raleway-semibold-webfont.woff') format('woff'),
+    url('../fonts/raleway-semibold-webfont.ttf') format('truetype'),
+    url('../fonts/raleway-semibold-webfont.svg#ralewaysemibold') format('svg');
+}
