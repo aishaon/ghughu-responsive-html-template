@@ -688,6 +688,7 @@ footer{
       }
       a{
         @include bold-font-style;
+        text-decoration: none !important;
       }
       &:hover,
       &:focus,

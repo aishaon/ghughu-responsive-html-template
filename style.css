@@ -565,6 +565,7 @@ footer .footer-bottom .footer-bottom-left p {
 footer .footer-bottom .footer-bottom-left a {
   font-family: 'Raleway Bold', sans-serif;
   color: #fff !important;
+  text-decoration: none !important;
 }
 footer .footer-bottom .footer-bottom-left:hover, footer .footer-bottom .footer-bottom-left:focus, footer .footer-bottom .footer-bottom-left:active {
   text-decoration: none !important;
@@ -652,43 +653,5 @@ footer .footer-bottom .social li a:hover {
 .widget ul li:last-of-type {
   margin-bottom: 0px;
 }
-
-/*# sourceMappingURL=style.css.map */
-    border-radius: 0px;
-    padding: 10px 20px;
-    border: none !important;
-    background: #03725e;
-    font-weight: bold;
-    text-shadow: none; }
-    .widget form input[type="submit"]:hover, .widget form input[type="submit"]:active, .widget form input[type="submit"]:focus {
-      background: #035748;
-      outline: none; }
-  .widget form p {
-    font-family: 'Raleway Bold', sans-serif;
-    font-size: 13px;
-    text-transform: uppercase;
-    margin-top: 10px; }
-  .widget h3 {
-    font-family: 'Raleway Bold', sans-serif;
-    color: #fff !important;
-    margin-bottom: 20px;
-    font-size: 20px;
-    text-transform: uppercase; }
-  .widget p {
-    line-height: 25px;
-    font-size: 14px; }
-  .widget a {
-    font-size: 13px; }
-    .widget a:hover, .widget a:focus, .widget a:active {
-      text-decoration: none;
-      color: #333333; }
-  .widget ul {
-    margin: 5px 0px; }
-    .widget ul li {
-      margin-bottom: 15px;
-      line-height: 20px;
-      text-transform: uppercase; }
-      .widget ul li:last-of-type {
-        margin-bottom: 0px; }
 
 /*# sourceMappingURL=style.css.map */
