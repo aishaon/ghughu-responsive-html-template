@@ -1,3 +1,4 @@
+/*		Normal Layout: 1024px.     */
 @media only screen and (min-width: 1024px) and (max-width: 1220px) {
   .carousel .carousel-inner .carousel-caption {
     padding-bottom: 50px;
@@ -241,7 +242,7 @@
 
   .page-navigation {
     margin-top: 72px;
-    padding: 15px;
+    padding: 15px 0px;
   }
 
   .page article .summery p {
@@ -294,5 +295,3 @@
     font-size: 16px !important;
   }
 }
-
-/*# sourceMappingURL=responsive.css.map */

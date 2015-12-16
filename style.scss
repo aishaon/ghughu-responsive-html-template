@@ -1,10 +1,12 @@
 @import "css/custom.css";
 
+//Base Variables
 $nav-bg: rgba(64, 69, 72, 0.9);
 $gray-bg: #404B51;
 $base-color: #0DB294;
 $state-color: #07937a;
 
+//Mixins
 @mixin bold-font-style{
   font-family: 'Raleway Bold', sans-serif;
   color: #fff !important;
