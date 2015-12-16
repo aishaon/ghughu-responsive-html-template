@@ -137,6 +137,7 @@
 
   .page-navigation {
     margin-top: 72px;
+    padding: 15px 0px;
   }
   .page-navigation .breadcrumb li a {
     font-size: 12px;
@@ -240,6 +241,7 @@
 
   .page-navigation {
     margin-top: 72px;
+    padding: 15px;
   }
 
   .page article .summery p {
